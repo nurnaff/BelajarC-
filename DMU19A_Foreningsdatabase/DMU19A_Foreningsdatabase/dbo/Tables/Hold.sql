@@ -1,0 +1,15 @@
+﻿CREATE TABLE [dbo].[Hold](
+	[HoldNr] [smallint] NOT NULL,
+	[HoldNavn] [nvarchar](14) NULL,
+	[AfdNr] [smallint] NULL,
+ CONSTRAINT [PK_Hold] PRIMARY KEY CLUSTERED 
+(
+	[HoldNr] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+ALTER TABLE [dbo].[Hold]  WITH CHECK ADD  CONSTRAINT [FK_Hold_Afdeling] FOREIGN KEY([AfdNr])
+REFERENCES [dbo].[Afdeling] ([AfdNr])
+GO
+
+ALTER TABLE [dbo].[Hold] CHECK CONSTRAINT [FK_Hold_Afdeling]

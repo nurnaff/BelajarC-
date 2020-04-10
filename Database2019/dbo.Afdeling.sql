@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Afdeling]
+(
+	[AfdNr] SMALLINT NOT NULL PRIMARY KEY, 
+    [AfdNavnr] NVARCHAR(25) NULL
+)

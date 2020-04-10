@@ -1,0 +1,21 @@
+﻿CREATE TABLE [dbo].[Formand](
+	[AfdNr] [smallint] NOT NULL,
+	[PersonNr] [smallint] NOT NULL,
+ CONSTRAINT [PK_FORMAND] PRIMARY KEY CLUSTERED 
+(
+	[AfdNr] ASC,
+	[PersonNr] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+ALTER TABLE [dbo].[Formand]  WITH CHECK ADD  CONSTRAINT [FK_Formand_Afdeling] FOREIGN KEY([AfdNr])
+REFERENCES [dbo].[Afdeling] ([AfdNr])
+GO
+
+ALTER TABLE [dbo].[Formand] CHECK CONSTRAINT [FK_Formand_Afdeling]
+GO
+ALTER TABLE [dbo].[Formand]  WITH CHECK ADD  CONSTRAINT [FK_Formand_Person] FOREIGN KEY([PersonNr])
+REFERENCES [dbo].[Person] ([PersonNr])
+GO
+
+ALTER TABLE [dbo].[Formand] CHECK CONSTRAINT [FK_Formand_Person]

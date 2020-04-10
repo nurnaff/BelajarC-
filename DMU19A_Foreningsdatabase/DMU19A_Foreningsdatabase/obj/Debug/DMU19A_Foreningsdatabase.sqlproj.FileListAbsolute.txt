@@ -1,0 +1,6 @@
+J:\Aplikasi\aplikasi c#\DMU19A_Foreningsdatabase\DMU19A_Foreningsdatabase\bin\Debug\DMU19A_Foreningsdatabase.dacpac
+J:\Aplikasi\aplikasi c#\DMU19A_Foreningsdatabase\DMU19A_Foreningsdatabase\bin\Debug\DMU19A_Foreningsdatabase.dll
+J:\Aplikasi\aplikasi c#\DMU19A_Foreningsdatabase\DMU19A_Foreningsdatabase\bin\Debug\DMU19A_Foreningsdatabase.pdb
+J:\Aplikasi\aplikasi c#\DMU19A_Foreningsdatabase\DMU19A_Foreningsdatabase\obj\Debug\DMU19A_Foreningsdatabase.sqlprojAssemblyReference.cache
+J:\Aplikasi\aplikasi c#\DMU19A_Foreningsdatabase\DMU19A_Foreningsdatabase\obj\Debug\DMU19A_Foreningsdatabase.dll
+J:\Aplikasi\aplikasi c#\DMU19A_Foreningsdatabase\DMU19A_Foreningsdatabase\obj\Debug\DMU19A_Foreningsdatabase.pdb

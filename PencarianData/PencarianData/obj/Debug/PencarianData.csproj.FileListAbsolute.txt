@@ -1,0 +1,8 @@
+J:\Aplikasi\aplikasi c#\PencarianData\PencarianData\obj\Debug\ResolveAssemblyReference.cache
+J:\Aplikasi\aplikasi c#\PencarianData\PencarianData\obj\Debug\PencarianData.Form1.resources
+J:\Aplikasi\aplikasi c#\PencarianData\PencarianData\obj\Debug\PencarianData.Properties.Resources.resources
+J:\Aplikasi\aplikasi c#\PencarianData\PencarianData\obj\Debug\PencarianData.csproj.GenerateResource.Cache
+J:\Aplikasi\aplikasi c#\PencarianData\PencarianData\bin\Debug\PencarianData.exe
+J:\Aplikasi\aplikasi c#\PencarianData\PencarianData\bin\Debug\PencarianData.pdb
+J:\Aplikasi\aplikasi c#\PencarianData\PencarianData\obj\Debug\PencarianData.exe
+J:\Aplikasi\aplikasi c#\PencarianData\PencarianData\obj\Debug\PencarianData.pdb

@@ -1,0 +1,9 @@
+J:\Aplikasi\aplikasi c#\Database30\Database30\bin\Debug\Database30.exe
+J:\Aplikasi\aplikasi c#\Database30\Database30\bin\Debug\Database30.pdb
+J:\Aplikasi\aplikasi c#\Database30\Database30\obj\Debug\ResolveAssemblyReference.cache
+J:\Aplikasi\aplikasi c#\Database30\Database30\obj\Debug\Database30.Form1.resources
+J:\Aplikasi\aplikasi c#\Database30\Database30\obj\Debug\Database30.Properties.Resources.resources
+J:\Aplikasi\aplikasi c#\Database30\Database30\obj\Debug\Database30.csproj.GenerateResource.Cache
+J:\Aplikasi\aplikasi c#\Database30\Database30\obj\Debug\Database30.exe
+J:\Aplikasi\aplikasi c#\Database30\Database30\obj\Debug\Database30.pdb
+J:\Aplikasi\aplikasi c#\Database30\Database30\obj\Debug\Database30.Form2.resources

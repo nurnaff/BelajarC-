@@ -1,0 +1,9 @@
+J:\Aplikasi\aplikasi c#\Les1\Les1\obj\Debug\ResolveAssemblyReference.cache
+J:\Aplikasi\aplikasi c#\Les1\Les1\obj\Debug\Les1.Form1.resources
+J:\Aplikasi\aplikasi c#\Les1\Les1\obj\Debug\Les1.Properties.Resources.resources
+J:\Aplikasi\aplikasi c#\Les1\Les1\obj\Debug\Les1.csproj.GenerateResource.Cache
+J:\Aplikasi\aplikasi c#\Les1\Les1\obj\Debug\Les1.fungsi.resources
+J:\Aplikasi\aplikasi c#\Les1\Les1\bin\Debug\Les1.exe
+J:\Aplikasi\aplikasi c#\Les1\Les1\bin\Debug\Les1.pdb
+J:\Aplikasi\aplikasi c#\Les1\Les1\obj\Debug\Les1.exe
+J:\Aplikasi\aplikasi c#\Les1\Les1\obj\Debug\Les1.pdb

@@ -1,0 +1,5 @@
+J:\Aplikasi\aplikasi c#\dataset\dataset\obj\Debug\ResolveAssemblyReference.cache
+J:\Aplikasi\aplikasi c#\dataset\dataset\bin\Debug\dataset.exe
+J:\Aplikasi\aplikasi c#\dataset\dataset\bin\Debug\dataset.pdb
+J:\Aplikasi\aplikasi c#\dataset\dataset\obj\Debug\dataset.exe
+J:\Aplikasi\aplikasi c#\dataset\dataset\obj\Debug\dataset.pdb

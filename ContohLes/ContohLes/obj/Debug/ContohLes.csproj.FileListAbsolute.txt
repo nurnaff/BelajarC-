@@ -1,0 +1,5 @@
+J:\Aplikasi\aplikasi c#\ContohLes\ContohLes\obj\Debug\ResolveAssemblyReference.cache
+J:\Aplikasi\aplikasi c#\ContohLes\ContohLes\bin\Debug\ContohLes.exe
+J:\Aplikasi\aplikasi c#\ContohLes\ContohLes\bin\Debug\ContohLes.pdb
+J:\Aplikasi\aplikasi c#\ContohLes\ContohLes\obj\Debug\ContohLes.exe
+J:\Aplikasi\aplikasi c#\ContohLes\ContohLes\obj\Debug\ContohLes.pdb

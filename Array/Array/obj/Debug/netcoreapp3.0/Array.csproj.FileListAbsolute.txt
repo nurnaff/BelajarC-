@@ -1,0 +1,11 @@
+J:\Aplikasi\aplikasi c#\Array\Array\bin\Debug\netcoreapp3.0\Array.deps.json
+J:\Aplikasi\aplikasi c#\Array\Array\bin\Debug\netcoreapp3.0\Array.dll
+J:\Aplikasi\aplikasi c#\Array\Array\bin\Debug\netcoreapp3.0\Array.pdb
+J:\Aplikasi\aplikasi c#\Array\Array\obj\Debug\netcoreapp3.0\Array.csprojAssemblyReference.cache
+J:\Aplikasi\aplikasi c#\Array\Array\obj\Debug\netcoreapp3.0\Array.AssemblyInfoInputs.cache
+J:\Aplikasi\aplikasi c#\Array\Array\obj\Debug\netcoreapp3.0\Array.AssemblyInfo.cs
+J:\Aplikasi\aplikasi c#\Array\Array\obj\Debug\netcoreapp3.0\Array.dll
+J:\Aplikasi\aplikasi c#\Array\Array\obj\Debug\netcoreapp3.0\Array.pdb
+J:\Aplikasi\aplikasi c#\Array\Array\bin\Debug\netcoreapp3.0\Array.exe
+J:\Aplikasi\aplikasi c#\Array\Array\bin\Debug\netcoreapp3.0\Array.runtimeconfig.json
+J:\Aplikasi\aplikasi c#\Array\Array\bin\Debug\netcoreapp3.0\Array.runtimeconfig.dev.json

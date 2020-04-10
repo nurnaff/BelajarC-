@@ -1,0 +1,13 @@
+10/21/2019 3:09:42 PM	This log contains information about the import operation of the script 'DMU19A_Foreningsdatabase.sql' into project 'DMU19A_Foreningsdatabase' on computer 'ANDINURNAF-PC' by user'AndiNurnaf.
+10/21/2019 3:09:42 PM	Started importing file: J:\Aplikasi\aplikasi c#\Database2019\DMU19A_Foreningsdatabase.sql 
+10/21/2019 3:09:42 PM	File name J:\Aplikasi\aplikasi c#\Database2019\DMU19A_Foreningsdatabase.sql (size: 115655)
+10/21/2019 3:09:42 PM	Parsing import script
+10/21/2019 3:09:43 PM	Total number of batches in script: 95
+10/21/2019 3:09:43 PM	Total number of statements in script: 19
+10/21/2019 3:09:43 PM	The script was successfully imported into the project.
+10/21/2019 3:09:43 PM	Analyzing schema objects...
+10/21/2019 3:09:43 PM	Scanning project for duplicate elements
+10/21/2019 3:09:43 PM	Finished duplicate element processing
+10/21/2019 3:09:44 PM	In the script that you provided to the import operation, one or more statements were not fully understood. These statements were moved to the ScriptsIgnoredOnImport.sql file. Review the file contents for additional information.
+10/21/2019 3:09:44 PM	A summary of the import was saved to the following location: J:\Aplikasi\aplikasi c#\DMU19A_Foreningsdatabase\DMU19A_Foreningsdatabase\Import Script Logs\DMU19A_Foreningsdata_20191021080942.log
+10/21/2019 3:09:44 PM	Click Finish to continue...

@@ -1,0 +1,8 @@
+J:\Aplikasi\aplikasi c#\DatabasePersediaan\DatabasePersediaan\bin\Debug\Persediaan.mdf
+J:\Aplikasi\aplikasi c#\DatabasePersediaan\DatabasePersediaan\bin\Debug\Persediaan_log.ldf
+J:\Aplikasi\aplikasi c#\DatabasePersediaan\DatabasePersediaan\bin\Debug\DatabasePersediaan.exe.config
+J:\Aplikasi\aplikasi c#\DatabasePersediaan\DatabasePersediaan\bin\Debug\DatabasePersediaan.exe
+J:\Aplikasi\aplikasi c#\DatabasePersediaan\DatabasePersediaan\bin\Debug\DatabasePersediaan.pdb
+J:\Aplikasi\aplikasi c#\DatabasePersediaan\DatabasePersediaan\obj\Debug\DatabasePersediaan.csprojAssemblyReference.cache
+J:\Aplikasi\aplikasi c#\DatabasePersediaan\DatabasePersediaan\obj\Debug\DatabasePersediaan.exe
+J:\Aplikasi\aplikasi c#\DatabasePersediaan\DatabasePersediaan\obj\Debug\DatabasePersediaan.pdb
